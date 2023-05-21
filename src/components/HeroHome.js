@@ -54,7 +54,7 @@ const HeroHome = () => {
         </div>
       </div>
 
-      <ul className="flex flex-wrap gap-4 md:gap-8 lg:gap-10 items-center justify-center mt-8 mb-0 text-white  ">
+      {/* <ul className="flex flex-wrap gap-4 md:gap-8 lg:gap-10 items-center justify-center mt-8 mb-0 text-white  ">
         <li>
           <FontAwesomeIcon icon={faCircle} className="h-2 w-2 text-white" />
           &nbsp;&nbsp; 90% Less Browsing, 10x Faster Responses in 1 click
@@ -73,8 +73,8 @@ const HeroHome = () => {
           &nbsp;&nbsp; Unlock the Ultimate AI Chat Bot Experience with Web
           Access
         </li>
-      </ul>
-      <ul></ul>
+      </ul> */}
+    
     </main>
   );
 };
