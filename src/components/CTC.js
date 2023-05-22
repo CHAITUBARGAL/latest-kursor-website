@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-// import kursorimg from '../images/kurosr1.png'
-import kursorimg from '../images/kurosr2.png'
+import kursorimg from '../images/kursorimg.png'
 const CTC = () => {
   return (
     <div>
